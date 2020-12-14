@@ -1,0 +1,326 @@
+<!DOCTYPE html>
+<html lang="en-US" prefix="og: http://ogp.me/ns#">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>3L Enterprise</title>
+<link rel="profile" href="http://gmpg.org/xfn/11">
+<link rel="pingback" href="../xmlrpc.php">
+
+
+<!-- This site is optimized with the Yoast WordPress SEO plugin v1.6.1 - https://yoast.com/wordpress/plugins/seo/ -->
+<link rel="canonical" href="../index.html?p=71" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="3L Enterprise" />
+<meta property="og:url" content="http://3lenterprise.com.au/make-an-appointment/" />
+<meta property="og:site_name" content="3L Enterprise" />
+<!-- / Yoast WordPress SEO plugin. -->
+
+<link rel="alternate" type="application/rss+xml" title="3L Enterprise &raquo; Feed" href="http://3lenterprise.com.au/feed/" />
+<link rel="alternate" type="application/rss+xml" title="3L Enterprise &raquo; Comments Feed" href="http://3lenterprise.com.au/comments/feed/" />
+<link rel='stylesheet' id='wuc_font-css'  href='http://fonts.googleapis.com/css?family=Open+Sans%3A300italic%2C400%2C600&#038;ver=3.9.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wuc_style-css'  href='../wp-content/plugins/wp-construction-mode/style/style.css?ver=1.8' type='text/css' media='all' />
+<link rel='stylesheet' id='appointments-css'  href='../wp-content/plugins/appointments/css/front.css?ver=1.4.4-beta-1' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='../wp-content/plugins/contact-form-7/includes/css/styles.css?ver=3.9.3' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='../wp-content/themes/thbusiness/css/font-awesome.min.css?ver=4.1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap.css-css'  href='../wp-content/themes/thbusiness/css/bootstrap.min.css?ver=all' type='text/css' media='all' />
+<link rel='stylesheet' id='thbusiness-style-css'  href='../wp-content/themes/thbusiness/style.css?ver=3.9.1' type='text/css' media='all' />
+<link rel='stylesheet' id='add-flex-css-css'  href='../wp-content/themes/thbusiness/css/flexslider.css?ver=3.9.1' type='text/css' media='screen' />
+<link rel='stylesheet' id='tablepress-default-css'  href='../wp-content/plugins/tablepress/css/default.min.css?ver=1.4' type='text/css' media='all' />
+<link rel='stylesheet' id='googleWebFonts-css'  href='http://fonts.googleapis.com/css?family=PT+Sans%3A400%2C700&#038;ver=3.9.1' type='text/css' media='all' />
+<script type='text/javascript' src='../wp-includes/js/jquery/jquery.js?ver=1.11.0'></script>
+<script type='text/javascript' src='../wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='../wp-content/plugins/appointments/js/jquery.tablesorter.min.js?ver=1.4.4-beta-1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _appointments_data = {"ajax_url":"http:\/\/3lenterprise.com.au\/wp-admin\/admin-ajax.php","root_url":"http:\/\/3lenterprise.com.au\/wp-content\/plugins\/appointments\/images\/"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='../wp-content/plugins/appointments/js/js-check.js?ver=1.4.4-beta-1'></script>
+<script type='text/javascript' src='../wp-content/themes/thbusiness/js/scripts.js?ver=3.9.1'></script>
+<script type='text/javascript' src='../wp-content/themes/thbusiness/js/respond.min.js?ver=3.9.1'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="../xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="../wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 3.9.1" />
+<link rel='shortlink' href='../index.html?p=71' />
+<link rel="shortcut icon" href="../wp-content/uploads/2014/08/favicon1.ico" type="image/x-icon" />
+	<style type="text/css">
+	a:hover,
+		a:focus,
+		a:active {
+			color: #7aa826;
+		}
+		blockquote {
+			border-left: 3px solid #7aa826;
+		}
+		.main-navigation ul ul {
+			border-top: 3px solid #7aa826;
+		}
+		.main-navigation li:hover > a {
+			border-bottom: 3px solid #7aa826;
+		}
+		.main-navigation a:hover, 
+		.main-navigation ul li.current-menu-item a, 
+		.main-navigation ul li.current_page_ancestor a, 
+		.main-navigation ul li.current-menu-ancestor a, 
+		.main-navigation ul li.current_page_item a,
+		.main-navigation ul li:hover > a {
+			color: #7aa826;
+		}
+		.widget-title {
+			border-bottom: 3px solid #7aa826;
+		}
+		.th-services-box:hover .th-services-icon {
+			border: 1px solid #7aa826;
+			color: #7aa826;
+		}
+		.th-services-box:hover .th-morelink {
+			background: #7aa826;
+		}
+		.th-morelink {
+			color: #7aa826;
+		}
+		.th-morelink:visited {
+			color: #7aa826;
+		}
+		.call-to-action-button {
+			background: #7aa826;
+		}
+		.singlepage-widget-moretag {
+			background: #7aa826;
+		}		
+		.moretag {
+			background: #7aa826;
+		}
+		.comment-author .fn,
+		.comment-author .url,
+		.comment-reply-link,
+		.comment-reply-login {
+			color: #7aa826;
+		}
+		a:hover.page-numbers {
+			background-color: #7aa826;
+		}
+		.paging-navigation .current {
+			background-color: #7aa826;
+		}
+		.page-links span a{
+			background: #7aa826;
+		}
+		.page-links a:hover {
+			background: #7aa826;
+		}
+		.th-slider-readmore-button a {
+			background: #7aa826;
+		}
+		.site-footer a:hover {
+			color: #7aa826;
+		}
+		.th-search-box-container {
+			border-top: 3px solid #7aa826;
+		}
+		#th-search-form input[type="submit"] {
+			background-color: #7aa826;
+		}	</style>
+		<style type="text/css">
+		.entry-content td{border:none;width:50%}td.free,div.free {background: #48c048 !important;}td.busy,div.busy {background: #276627 !important;}td.notpossible,div.notpossible {background: #5e5c5e !important;}.appointments-login_link-google{display:none !important;}		</style>
+		</head>
+
+<body class="page page-id-71 page-template page-template-layoutspage-fullwidth-php custom-background siteorigin-panels">
+
+<div id="page" class="hfeed site">
+	<div class="container-fluid">
+	<div class="row">
+	
+	<header id="masthead" class="site-header" role="banner">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-4 col-xs-12 col-lg-4">
+					<div class="site-branding">
+													<div class="site-logo-image">
+								<a href="../index.html" title="3L Enterprise" rel="home"><img src="../wp-content/uploads/2014/09/3L-Logo-no-background.png" alt="3L Enterprise"></a>
+							</div>
+																	</div>
+				</div><!-- .col-md-4 .col-xs-12 .col-lg-4 -->
+
+				<div class="col-md-8 col-xs-12 col-lg-8">
+					<nav id="site-navigation" class="main-navigation" role="navigation">
+						<div class="menu"><ul><li ><a href="../index.html">Home</a></li><li class="page_item page-item-26"><a href="../index.html?p=26">About Us</a></li><li class="page_item page-item-76"><a href="../index.html?p=76">Our Services</a></li><li class="page_item page-item-71 current_page_item"><a href="../index.html?p=71">Make an Appointment</a></li><li class="page_item page-item-22"><a href="../index.html?p=22">Contact Us</a></li></ul></div>
+					</nav><!-- #site-navigation -->
+					<a href="index.html?wcalendar=1606780800#" class="navbutton" id="main-nav-button">Main Menu</a>
+					<div class="responsive-mainnav"></div>
+
+					<div class="th-search-button-icon"></div>
+					<div class="th-search-box-container">
+						<div class="th-search-box">
+							<form action="../index.html" id="th-search-form" method="get">
+								<input type="text" value="" name="s" id="s" />
+								<input type="submit" value="Search" />
+							</form>
+						</div><!-- th-search-box -->
+					</div><!-- .th-search-box-container -->
+				</div><!-- .col-md-8 .col-xs-12 .col-lg-8 -->
+			</div><!-- .row -->
+		</div><!-- container -->
+	</header><!-- #masthead -->
+	
+		
+	
+	</div><!-- .row -->
+	</div><!-- .container-fluid -->
+
+	<div id="content" class="site-content">
+<div class="container">
+	<div class="row"><div class="col-xs-12 col-sm-12 col-md-12">
+	<div id="primary" class="content-area">
+		<main id="main" class="site-main" role="main">
+
+			
+				
+<article id="post-71" class="post-71 page type-page status-publish hentry">
+	<header class="page-header">
+		<h1 class="page-title">Make an Appointment</h1>	</header><!-- .page-header -->
+
+	<div class="entry-content">
+		<table width="227">
+<tbody>
+<tr>
+<td><div class="app_services"><div class="app_services_dropdown"><div class="app_services_dropdown_title">Please select a service:</div><div class="app_services_dropdown_select"><select name="app_select_services" class="app_select_services"><option value="1" selected="selected">Electrical Consulting</option><option value="2">Building Inspection</option></select><input type="button" class="app_services_button" value="Show available times"></div></div><div class="app_service_excerpts"><div  class="app_service_excerpt" id="app_service_excerpt_1" ></div><div  style="display:none" class="app_service_excerpt" id="app_service_excerpt_2" ></div></div></div></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"><div class="appointments-wrapper"><h3>Our schedule for December 2020</h3><div class='appointments-instructions'>Click a free day to apply for an appointment.</div><div class="appointments-list"><div class="app_monthly_schedule_wrapper"><a id="app_schedule">&nbsp;</a><table width='100%' ><thead><tr><th>Mo</th><th>Tu</th><th>We</th><th>Th</th><th>Fr</th><th>Sa</th><th>Su</th></tr></thead><tbody><tr><td class="no-left-border" colspan="1">&nbsp;</td><td class="notpossible app_past" title="December 1, 2020"><p>1</p>
+			<input type="hidden" class="appointments_select_time" value="1606780800" /></td><td class="notpossible app_past" title="December 2, 2020"><p>2</p>
+			<input type="hidden" class="appointments_select_time" value="1606867200" /></td><td class="notpossible app_past" title="December 3, 2020"><p>3</p>
+			<input type="hidden" class="appointments_select_time" value="1606953600" /></td><td class="notpossible app_past" title="December 4, 2020"><p>4</p>
+			<input type="hidden" class="appointments_select_time" value="1607040000" /></td><td class="notpossible app_past" title="December 5, 2020"><p>5</p>
+			<input type="hidden" class="appointments_select_time" value="1607126400" /></td><td class="notpossible app_past" title="December 6, 2020"><p>6</p>
+			<input type="hidden" class="appointments_select_time" value="1607212800" /></td></tr><tr><td class="notpossible app_past" title="December 7, 2020"><p>7</p>
+			<input type="hidden" class="appointments_select_time" value="1607299200" /></td><td class="notpossible app_past" title="December 8, 2020"><p>8</p>
+			<input type="hidden" class="appointments_select_time" value="1607385600" /></td><td class="notpossible app_past" title="December 9, 2020"><p>9</p>
+			<input type="hidden" class="appointments_select_time" value="1607472000" /></td><td class="notpossible app_past" title="December 10, 2020"><p>10</p>
+			<input type="hidden" class="appointments_select_time" value="1607558400" /></td><td class="notpossible app_past" title="December 11, 2020"><p>11</p>
+			<input type="hidden" class="appointments_select_time" value="1607644800" /></td><td class="notpossible app_past" title="December 12, 2020"><p>12</p>
+			<input type="hidden" class="appointments_select_time" value="1607731200" /></td><td class="notpossible app_past" title="December 13, 2020"><p>13</p>
+			<input type="hidden" class="appointments_select_time" value="1607817600" /></td></tr><tr><td class="notpossible app_blocked today" title="December 14, 2020"><p>14</p>
+			<input type="hidden" class="appointments_select_time" value="1607904000" /></td><td class="free" title="December 15, 2020"><p>15</p>
+			<input type="hidden" class="appointments_select_time" value="1607990400" /></td><td class="free" title="December 16, 2020"><p>16</p>
+			<input type="hidden" class="appointments_select_time" value="1608076800" /></td><td class="free" title="December 17, 2020"><p>17</p>
+			<input type="hidden" class="appointments_select_time" value="1608163200" /></td><td class="free" title="December 18, 2020"><p>18</p>
+			<input type="hidden" class="appointments_select_time" value="1608249600" /></td><td class="notpossible notworking" title="December 19, 2020"><p>19</p>
+			<input type="hidden" class="appointments_select_time" value="1608336000" /></td><td class="notpossible notworking" title="December 20, 2020"><p>20</p>
+			<input type="hidden" class="appointments_select_time" value="1608422400" /></td></tr><tr><td class="free" title="December 21, 2020"><p>21</p>
+			<input type="hidden" class="appointments_select_time" value="1608508800" /></td><td class="free" title="December 22, 2020"><p>22</p>
+			<input type="hidden" class="appointments_select_time" value="1608595200" /></td><td class="free" title="December 23, 2020"><p>23</p>
+			<input type="hidden" class="appointments_select_time" value="1608681600" /></td><td class="free" title="December 24, 2020"><p>24</p>
+			<input type="hidden" class="appointments_select_time" value="1608768000" /></td><td class="free" title="December 25, 2020"><p>25</p>
+			<input type="hidden" class="appointments_select_time" value="1608854400" /></td><td class="notpossible notworking" title="December 26, 2020"><p>26</p>
+			<input type="hidden" class="appointments_select_time" value="1608940800" /></td><td class="notpossible notworking" title="December 27, 2020"><p>27</p>
+			<input type="hidden" class="appointments_select_time" value="1609027200" /></td></tr><tr><td class="free" title="December 28, 2020"><p>28</p>
+			<input type="hidden" class="appointments_select_time" value="1609113600" /></td><td class="free" title="December 29, 2020"><p>29</p>
+			<input type="hidden" class="appointments_select_time" value="1609200000" /></td><td class="free" title="December 30, 2020"><p>30</p>
+			<input type="hidden" class="appointments_select_time" value="1609286400" /></td><td class="free" title="December 31, 2020"><p>31</p>
+			<input type="hidden" class="appointments_select_time" value="1609372800" /></td><td class="no-right-border" colspan="3">&nbsp;</td></tr></tbody><tfoot><tr><th>Mo</th><th>Tu</th><th>We</th><th>Th</th><th>Fr</th><th>Sa</th><th>Su</th></tr></tfoot></table></div><div class="app_timetable_wrapper"><div class="app_timetable app_timetable_1607990400" style="display:none"><div class="app_timetable_title">December 15, 2020</div><div class="app_timetable_cell free" title="December 15, 2020 8:00 am">8:00 am<input type="hidden" class="appointments_take_appointment" value="0:1:0:1608019200:1608022800:71" /></div><div class="app_timetable_cell free" title="December 15, 2020 9:00 am">9:00 am<input type="hidden" class="appointments_take_appointment" value="0:1:0:1608022800:1608026400:71" /></div><div class="app_timetable_cell free" title="December 15, 2020 10:00 am">10:00 am<input type="hidden" class="appointments_take_appointment" value="0:1:0:1608026400:1608030000:71" /></div><div class="app_timetable_cell free" title="December 15, 2020 11:00 am">11:00 am<input type="hidden" class="appointments_take_appointment" value="0:1:0:1608030000:1608033600:71" /></div><div class="app_timetable_cell free" title="December 15, 2020 12:00 pm">12:00 pm<input type="hidden" class="appointments_take_appointment" value="0:1:0:1608033600:1608037200:71" /></div><div class="app_timetable_cell free" title="December 15, 2020 1:00 pm">1:00 pm<input type="hidden" class="appointments_take_appointment" value="0:1:0:1608037200:1608040800:71" /></div><div class="app_timetable_cell free" title="December 15, 2020 2:00 pm">2:00 pm<input type="hidden" class="appointments_take_appointment" value="0:1:0:1608040800:1608044400:71" /></div><div class="app_timetable_cell free" title="December 15, 2020 3:00 pm">3:00 pm<input type="hidden" class="appointments_take_appointment" value="0:1:0:1608044400:1608048000:71" /></div><div class="app_timetable_cell free" title="December 15, 2020 4:00 pm">4:00 pm<input type="hidden" class="appointments_take_appointment" value="0:1:0:1608048000:1608051600:71" /></div><div style="clear:both"></div></div><div class="app_timetable app_timetable_1608076800" style="display:none"><div class="app_timetable_title">December 16, 2020</div><div class="app_timetable_cell free" title="December 16, 2020 8:00 am">8:00 am<input type="hidden" class="appointments_take_appointment" value="0:1:0:1608105600:1608109200:71" /></div><div class="app_timetable_cell free" title="December 16, 2020 9:00 am">9:00 am<input type="hidden" class="appointments_take_appointment" value="0:1:0:1608109200:1608112800:71" /></div><div class="app_timetable_cell free" title="December 16, 2020 10:00 am">10:00 am<input type="hidden" class="appointments_take_appointment" value="0:1:0:1608112800:1608116400:71" /></div><div class="app_timetable_cell free" title="December 16, 2020 11:00 am">11:00 am<input type="hidden" class="appointments_take_appointment" value="0:1:0:1608116400:1608120000:71" /></div><div class="app_timetable_cell free" title="December 16, 2020 12:00 pm">12:00 pm<input type="hidden" class="appointments_take_appointment" value="0:1:0:1608120000:1608123600:71" /></div><div class="app_timetable_cell free" title="December 16, 2020 1:00 pm">1:00 pm<input type="hidden" class="appointments_take_appointment" value="0:1:0:1608123600:1608127200:71" /></div><div class="app_timetable_cell free" title="December 16, 2020 2:00 pm">2:00 pm<input type="hidden" class="appointments_take_appointment" value="0:1:0:1608127200:1608130800:71" /></div><div class="app_timetable_cell free" title="December 16, 2020 3:00 pm">3:00 pm<input type="hidden" class="appointments_take_appointment" value="0:1:0:1608130800:1608134400:71" /></div><div class="app_timetable_cell free" title="December 16, 2020 4:00 pm">4:00 pm<input type="hidden" class="appointments_take_appointment" value="0:1:0:1608134400:1608138000:71" /></div><div style="clear:both"></div></div><div class="app_timetable app_timetable_1608163200" style="display:none"><div class="app_timetable_title">December 17, 2020</div><div class="app_timetable_cell free" title="December 17, 2020 8:00 am">8:00 am<input type="hidden" class="appointments_take_appointment" value="0:1:0:1608192000:1608195600:71" /></div><div class="app_timetable_cell free" title="December 17, 2020 9:00 am">9:00 am<input type="hidden" class="appointments_take_appointment" value="0:1:0:1608195600:1608199200:71" /></div><div class="app_timetable_cell free" title="December 17, 2020 10:00 am">10:00 am<input type="hidden" class="appointments_take_appointment" value="0:1:0:1608199200:1608202800:71" /></div><div class="app_timetable_cell free" title="December 17, 2020 11:00 am">11:00 am<input type="hidden" class="appointments_take_appointment" value="0:1:0:1608202800:1608206400:71" /></div><div class="app_timetable_cell free" title="December 17, 2020 12:00 pm">12:00 pm<input type="hidden" class="appointments_take_appointment" value="0:1:0:1608206400:1608210000:71" /></div><div class="app_timetable_cell free" title="December 17, 2020 1:00 pm">1:00 pm<input type="hidden" class="appointments_take_appointment" value="0:1:0:1608210000:1608213600:71" /></div><div class="app_timetable_cell free" title="December 17, 2020 2:00 pm">2:00 pm<input type="hidden" class="appointments_take_appointment" value="0:1:0:1608213600:1608217200:71" /></div><div class="app_timetable_cell free" title="December 17, 2020 3:00 pm">3:00 pm<input type="hidden" class="appointments_take_appointment" value="0:1:0:1608217200:1608220800:71" /></div><div class="app_timetable_cell free" title="December 17, 2020 4:00 pm">4:00 pm<input type="hidden" class="appointments_take_appointment" value="0:1:0:1608220800:1608224400:71" /></div><div style="clear:both"></div></div><div class="app_timetable app_timetable_1608249600" style="display:none"><div class="app_timetable_title">December 18, 2020</div><div class="app_timetable_cell free" title="December 18, 2020 8:00 am">8:00 am<input type="hidden" class="appointments_take_appointment" value="0:1:0:1608278400:1608282000:71" /></div><div class="app_timetable_cell free" title="December 18, 2020 9:00 am">9:00 am<input type="hidden" class="appointments_take_appointment" value="0:1:0:1608282000:1608285600:71" /></div><div class="app_timetable_cell free" title="December 18, 2020 10:00 am">10:00 am<input type="hidden" class="appointments_take_appointment" value="0:1:0:1608285600:1608289200:71" /></div><div class="app_timetable_cell free" title="December 18, 2020 11:00 am">11:00 am<input type="hidden" class="appointments_take_appointment" value="0:1:0:1608289200:1608292800:71" /></div><div class="app_timetable_cell free" title="December 18, 2020 12:00 pm">12:00 pm<input type="hidden" class="appointments_take_appointment" value="0:1:0:1608292800:1608296400:71" /></div><div class="app_timetable_cell free" title="December 18, 2020 1:00 pm">1:00 pm<input type="hidden" class="appointments_take_appointment" value="0:1:0:1608296400:1608300000:71" /></div><div class="app_timetable_cell free" title="December 18, 2020 2:00 pm">2:00 pm<input type="hidden" class="appointments_take_appointment" value="0:1:0:1608300000:1608303600:71" /></div><div class="app_timetable_cell free" title="December 18, 2020 3:00 pm">3:00 pm<input type="hidden" class="appointments_take_appointment" value="0:1:0:1608303600:1608307200:71" /></div><div class="app_timetable_cell free" title="December 18, 2020 4:00 pm">4:00 pm<input type="hidden" class="appointments_take_appointment" value="0:1:0:1608307200:1608310800:71" /></div><div style="clear:both"></div></div><div class="app_timetable app_timetable_1608508800" style="display:none"><div class="app_timetable_title">December 21, 2020</div><div class="app_timetable_cell free" title="December 21, 2020 8:00 am">8:00 am<input type="hidden" class="appointments_take_appointment" value="0:1:0:1608537600:1608541200:71" /></div><div class="app_timetable_cell free" title="December 21, 2020 9:00 am">9:00 am<input type="hidden" class="appointments_take_appointment" value="0:1:0:1608541200:1608544800:71" /></div><div class="app_timetable_cell free" title="December 21, 2020 10:00 am">10:00 am<input type="hidden" class="appointments_take_appointment" value="0:1:0:1608544800:1608548400:71" /></div><div class="app_timetable_cell free" title="December 21, 2020 11:00 am">11:00 am<input type="hidden" class="appointments_take_appointment" value="0:1:0:1608548400:1608552000:71" /></div><div class="app_timetable_cell free" title="December 21, 2020 12:00 pm">12:00 pm<input type="hidden" class="appointments_take_appointment" value="0:1:0:1608552000:1608555600:71" /></div><div class="app_timetable_cell free" title="December 21, 2020 1:00 pm">1:00 pm<input type="hidden" class="appointments_take_appointment" value="0:1:0:1608555600:1608559200:71" /></div><div class="app_timetable_cell free" title="December 21, 2020 2:00 pm">2:00 pm<input type="hidden" class="appointments_take_appointment" value="0:1:0:1608559200:1608562800:71" /></div><div class="app_timetable_cell free" title="December 21, 2020 3:00 pm">3:00 pm<input type="hidden" class="appointments_take_appointment" value="0:1:0:1608562800:1608566400:71" /></div><div class="app_timetable_cell free" title="December 21, 2020 4:00 pm">4:00 pm<input type="hidden" class="appointments_take_appointment" value="0:1:0:1608566400:1608570000:71" /></div><div style="clear:both"></div></div><div class="app_timetable app_timetable_1608595200" style="display:none"><div class="app_timetable_title">December 22, 2020</div><div class="app_timetable_cell free" title="December 22, 2020 8:00 am">8:00 am<input type="hidden" class="appointments_take_appointment" value="0:1:0:1608624000:1608627600:71" /></div><div class="app_timetable_cell free" title="December 22, 2020 9:00 am">9:00 am<input type="hidden" class="appointments_take_appointment" value="0:1:0:1608627600:1608631200:71" /></div><div class="app_timetable_cell free" title="December 22, 2020 10:00 am">10:00 am<input type="hidden" class="appointments_take_appointment" value="0:1:0:1608631200:1608634800:71" /></div><div class="app_timetable_cell free" title="December 22, 2020 11:00 am">11:00 am<input type="hidden" class="appointments_take_appointment" value="0:1:0:1608634800:1608638400:71" /></div><div class="app_timetable_cell free" title="December 22, 2020 12:00 pm">12:00 pm<input type="hidden" class="appointments_take_appointment" value="0:1:0:1608638400:1608642000:71" /></div><div class="app_timetable_cell free" title="December 22, 2020 1:00 pm">1:00 pm<input type="hidden" class="appointments_take_appointment" value="0:1:0:1608642000:1608645600:71" /></div><div class="app_timetable_cell free" title="December 22, 2020 2:00 pm">2:00 pm<input type="hidden" class="appointments_take_appointment" value="0:1:0:1608645600:1608649200:71" /></div><div class="app_timetable_cell free" title="December 22, 2020 3:00 pm">3:00 pm<input type="hidden" class="appointments_take_appointment" value="0:1:0:1608649200:1608652800:71" /></div><div class="app_timetable_cell free" title="December 22, 2020 4:00 pm">4:00 pm<input type="hidden" class="appointments_take_appointment" value="0:1:0:1608652800:1608656400:71" /></div><div style="clear:both"></div></div><div class="app_timetable app_timetable_1608681600" style="display:none"><div class="app_timetable_title">December 23, 2020</div><div class="app_timetable_cell free" title="December 23, 2020 8:00 am">8:00 am<input type="hidden" class="appointments_take_appointment" value="0:1:0:1608710400:1608714000:71" /></div><div class="app_timetable_cell free" title="December 23, 2020 9:00 am">9:00 am<input type="hidden" class="appointments_take_appointment" value="0:1:0:1608714000:1608717600:71" /></div><div class="app_timetable_cell free" title="December 23, 2020 10:00 am">10:00 am<input type="hidden" class="appointments_take_appointment" value="0:1:0:1608717600:1608721200:71" /></div><div class="app_timetable_cell free" title="December 23, 2020 11:00 am">11:00 am<input type="hidden" class="appointments_take_appointment" value="0:1:0:1608721200:1608724800:71" /></div><div class="app_timetable_cell free" title="December 23, 2020 12:00 pm">12:00 pm<input type="hidden" class="appointments_take_appointment" value="0:1:0:1608724800:1608728400:71" /></div><div class="app_timetable_cell free" title="December 23, 2020 1:00 pm">1:00 pm<input type="hidden" class="appointments_take_appointment" value="0:1:0:1608728400:1608732000:71" /></div><div class="app_timetable_cell free" title="December 23, 2020 2:00 pm">2:00 pm<input type="hidden" class="appointments_take_appointment" value="0:1:0:1608732000:1608735600:71" /></div><div class="app_timetable_cell free" title="December 23, 2020 3:00 pm">3:00 pm<input type="hidden" class="appointments_take_appointment" value="0:1:0:1608735600:1608739200:71" /></div><div class="app_timetable_cell free" title="December 23, 2020 4:00 pm">4:00 pm<input type="hidden" class="appointments_take_appointment" value="0:1:0:1608739200:1608742800:71" /></div><div style="clear:both"></div></div><div class="app_timetable app_timetable_1608768000" style="display:none"><div class="app_timetable_title">December 24, 2020</div><div class="app_timetable_cell free" title="December 24, 2020 8:00 am">8:00 am<input type="hidden" class="appointments_take_appointment" value="0:1:0:1608796800:1608800400:71" /></div><div class="app_timetable_cell free" title="December 24, 2020 9:00 am">9:00 am<input type="hidden" class="appointments_take_appointment" value="0:1:0:1608800400:1608804000:71" /></div><div class="app_timetable_cell free" title="December 24, 2020 10:00 am">10:00 am<input type="hidden" class="appointments_take_appointment" value="0:1:0:1608804000:1608807600:71" /></div><div class="app_timetable_cell free" title="December 24, 2020 11:00 am">11:00 am<input type="hidden" class="appointments_take_appointment" value="0:1:0:1608807600:1608811200:71" /></div><div class="app_timetable_cell free" title="December 24, 2020 12:00 pm">12:00 pm<input type="hidden" class="appointments_take_appointment" value="0:1:0:1608811200:1608814800:71" /></div><div class="app_timetable_cell free" title="December 24, 2020 1:00 pm">1:00 pm<input type="hidden" class="appointments_take_appointment" value="0:1:0:1608814800:1608818400:71" /></div><div class="app_timetable_cell free" title="December 24, 2020 2:00 pm">2:00 pm<input type="hidden" class="appointments_take_appointment" value="0:1:0:1608818400:1608822000:71" /></div><div class="app_timetable_cell free" title="December 24, 2020 3:00 pm">3:00 pm<input type="hidden" class="appointments_take_appointment" value="0:1:0:1608822000:1608825600:71" /></div><div class="app_timetable_cell free" title="December 24, 2020 4:00 pm">4:00 pm<input type="hidden" class="appointments_take_appointment" value="0:1:0:1608825600:1608829200:71" /></div><div style="clear:both"></div></div><div class="app_timetable app_timetable_1608854400" style="display:none"><div class="app_timetable_title">December 25, 2020</div><div class="app_timetable_cell free" title="December 25, 2020 8:00 am">8:00 am<input type="hidden" class="appointments_take_appointment" value="0:1:0:1608883200:1608886800:71" /></div><div class="app_timetable_cell free" title="December 25, 2020 9:00 am">9:00 am<input type="hidden" class="appointments_take_appointment" value="0:1:0:1608886800:1608890400:71" /></div><div class="app_timetable_cell free" title="December 25, 2020 10:00 am">10:00 am<input type="hidden" class="appointments_take_appointment" value="0:1:0:1608890400:1608894000:71" /></div><div class="app_timetable_cell free" title="December 25, 2020 11:00 am">11:00 am<input type="hidden" class="appointments_take_appointment" value="0:1:0:1608894000:1608897600:71" /></div><div class="app_timetable_cell free" title="December 25, 2020 12:00 pm">12:00 pm<input type="hidden" class="appointments_take_appointment" value="0:1:0:1608897600:1608901200:71" /></div><div class="app_timetable_cell free" title="December 25, 2020 1:00 pm">1:00 pm<input type="hidden" class="appointments_take_appointment" value="0:1:0:1608901200:1608904800:71" /></div><div class="app_timetable_cell free" title="December 25, 2020 2:00 pm">2:00 pm<input type="hidden" class="appointments_take_appointment" value="0:1:0:1608904800:1608908400:71" /></div><div class="app_timetable_cell free" title="December 25, 2020 3:00 pm">3:00 pm<input type="hidden" class="appointments_take_appointment" value="0:1:0:1608908400:1608912000:71" /></div><div class="app_timetable_cell free" title="December 25, 2020 4:00 pm">4:00 pm<input type="hidden" class="appointments_take_appointment" value="0:1:0:1608912000:1608915600:71" /></div><div style="clear:both"></div></div><div class="app_timetable app_timetable_1609113600" style="display:none"><div class="app_timetable_title">December 28, 2020</div><div class="app_timetable_cell free" title="December 28, 2020 8:00 am">8:00 am<input type="hidden" class="appointments_take_appointment" value="0:1:0:1609142400:1609146000:71" /></div><div class="app_timetable_cell free" title="December 28, 2020 9:00 am">9:00 am<input type="hidden" class="appointments_take_appointment" value="0:1:0:1609146000:1609149600:71" /></div><div class="app_timetable_cell free" title="December 28, 2020 10:00 am">10:00 am<input type="hidden" class="appointments_take_appointment" value="0:1:0:1609149600:1609153200:71" /></div><div class="app_timetable_cell free" title="December 28, 2020 11:00 am">11:00 am<input type="hidden" class="appointments_take_appointment" value="0:1:0:1609153200:1609156800:71" /></div><div class="app_timetable_cell free" title="December 28, 2020 12:00 pm">12:00 pm<input type="hidden" class="appointments_take_appointment" value="0:1:0:1609156800:1609160400:71" /></div><div class="app_timetable_cell free" title="December 28, 2020 1:00 pm">1:00 pm<input type="hidden" class="appointments_take_appointment" value="0:1:0:1609160400:1609164000:71" /></div><div class="app_timetable_cell free" title="December 28, 2020 2:00 pm">2:00 pm<input type="hidden" class="appointments_take_appointment" value="0:1:0:1609164000:1609167600:71" /></div><div class="app_timetable_cell free" title="December 28, 2020 3:00 pm">3:00 pm<input type="hidden" class="appointments_take_appointment" value="0:1:0:1609167600:1609171200:71" /></div><div class="app_timetable_cell free" title="December 28, 2020 4:00 pm">4:00 pm<input type="hidden" class="appointments_take_appointment" value="0:1:0:1609171200:1609174800:71" /></div><div style="clear:both"></div></div><div class="app_timetable app_timetable_1609200000" style="display:none"><div class="app_timetable_title">December 29, 2020</div><div class="app_timetable_cell free" title="December 29, 2020 8:00 am">8:00 am<input type="hidden" class="appointments_take_appointment" value="0:1:0:1609228800:1609232400:71" /></div><div class="app_timetable_cell free" title="December 29, 2020 9:00 am">9:00 am<input type="hidden" class="appointments_take_appointment" value="0:1:0:1609232400:1609236000:71" /></div><div class="app_timetable_cell free" title="December 29, 2020 10:00 am">10:00 am<input type="hidden" class="appointments_take_appointment" value="0:1:0:1609236000:1609239600:71" /></div><div class="app_timetable_cell free" title="December 29, 2020 11:00 am">11:00 am<input type="hidden" class="appointments_take_appointment" value="0:1:0:1609239600:1609243200:71" /></div><div class="app_timetable_cell free" title="December 29, 2020 12:00 pm">12:00 pm<input type="hidden" class="appointments_take_appointment" value="0:1:0:1609243200:1609246800:71" /></div><div class="app_timetable_cell free" title="December 29, 2020 1:00 pm">1:00 pm<input type="hidden" class="appointments_take_appointment" value="0:1:0:1609246800:1609250400:71" /></div><div class="app_timetable_cell free" title="December 29, 2020 2:00 pm">2:00 pm<input type="hidden" class="appointments_take_appointment" value="0:1:0:1609250400:1609254000:71" /></div><div class="app_timetable_cell free" title="December 29, 2020 3:00 pm">3:00 pm<input type="hidden" class="appointments_take_appointment" value="0:1:0:1609254000:1609257600:71" /></div><div class="app_timetable_cell free" title="December 29, 2020 4:00 pm">4:00 pm<input type="hidden" class="appointments_take_appointment" value="0:1:0:1609257600:1609261200:71" /></div><div style="clear:both"></div></div><div class="app_timetable app_timetable_1609286400" style="display:none"><div class="app_timetable_title">December 30, 2020</div><div class="app_timetable_cell free" title="December 30, 2020 8:00 am">8:00 am<input type="hidden" class="appointments_take_appointment" value="0:1:0:1609315200:1609318800:71" /></div><div class="app_timetable_cell free" title="December 30, 2020 9:00 am">9:00 am<input type="hidden" class="appointments_take_appointment" value="0:1:0:1609318800:1609322400:71" /></div><div class="app_timetable_cell free" title="December 30, 2020 10:00 am">10:00 am<input type="hidden" class="appointments_take_appointment" value="0:1:0:1609322400:1609326000:71" /></div><div class="app_timetable_cell free" title="December 30, 2020 11:00 am">11:00 am<input type="hidden" class="appointments_take_appointment" value="0:1:0:1609326000:1609329600:71" /></div><div class="app_timetable_cell free" title="December 30, 2020 12:00 pm">12:00 pm<input type="hidden" class="appointments_take_appointment" value="0:1:0:1609329600:1609333200:71" /></div><div class="app_timetable_cell free" title="December 30, 2020 1:00 pm">1:00 pm<input type="hidden" class="appointments_take_appointment" value="0:1:0:1609333200:1609336800:71" /></div><div class="app_timetable_cell free" title="December 30, 2020 2:00 pm">2:00 pm<input type="hidden" class="appointments_take_appointment" value="0:1:0:1609336800:1609340400:71" /></div><div class="app_timetable_cell free" title="December 30, 2020 3:00 pm">3:00 pm<input type="hidden" class="appointments_take_appointment" value="0:1:0:1609340400:1609344000:71" /></div><div class="app_timetable_cell free" title="December 30, 2020 4:00 pm">4:00 pm<input type="hidden" class="appointments_take_appointment" value="0:1:0:1609344000:1609347600:71" /></div><div style="clear:both"></div></div><div class="app_timetable app_timetable_1609372800" style="display:none"><div class="app_timetable_title">December 31, 2020</div><div class="app_timetable_cell free" title="December 31, 2020 8:00 am">8:00 am<input type="hidden" class="appointments_take_appointment" value="0:1:0:1609401600:1609405200:71" /></div><div class="app_timetable_cell free" title="December 31, 2020 9:00 am">9:00 am<input type="hidden" class="appointments_take_appointment" value="0:1:0:1609405200:1609408800:71" /></div><div class="app_timetable_cell free" title="December 31, 2020 10:00 am">10:00 am<input type="hidden" class="appointments_take_appointment" value="0:1:0:1609408800:1609412400:71" /></div><div class="app_timetable_cell free" title="December 31, 2020 11:00 am">11:00 am<input type="hidden" class="appointments_take_appointment" value="0:1:0:1609412400:1609416000:71" /></div><div class="app_timetable_cell free" title="December 31, 2020 12:00 pm">12:00 pm<input type="hidden" class="appointments_take_appointment" value="0:1:0:1609416000:1609419600:71" /></div><div class="app_timetable_cell free" title="December 31, 2020 1:00 pm">1:00 pm<input type="hidden" class="appointments_take_appointment" value="0:1:0:1609419600:1609423200:71" /></div><div class="app_timetable_cell free" title="December 31, 2020 2:00 pm">2:00 pm<input type="hidden" class="appointments_take_appointment" value="0:1:0:1609423200:1609426800:71" /></div><div class="app_timetable_cell free" title="December 31, 2020 3:00 pm">3:00 pm<input type="hidden" class="appointments_take_appointment" value="0:1:0:1609426800:1609430400:71" /></div><div class="app_timetable_cell free" title="December 31, 2020 4:00 pm">4:00 pm<input type="hidden" class="appointments_take_appointment" value="0:1:0:1609430400:1609434000:71" /></div><div style="clear:both"></div></div></div><div style="clear:both"></div></div></div></td>
+</tr>
+<tr>
+<td colspan="2"><div class="appointments-legend"><table class="appointments-legend-table"><tr><td class="class-name">Free</td><td class="free">&nbsp;</td><td class="class-name">Busy</td><td class="busy">&nbsp;</td><td class="class-name">Not possible</td><td class="notpossible">&nbsp;</td></tr><tr></tr></table></div><div class="appointments-pagination"><div class="next"><a href="index.html?wcalendar=1609459200#app_schedule">Next Month &raquo;</a></div><div style="clear:both"></div></div></td>
+</tr>
+<tr>
+<td colspan="2"><div class="appointments-login"><div class="appointments-login_inner"></div></div></td>
+</tr>
+<tr>
+<td colspan="2"><div class="appointments-confirmation-wrapper"><fieldset><legend><h3>Please check the appointment details below and confirm:</h3></legend><div class="appointments-confirmation-service"></div><div class="appointments-confirmation-worker" style="display:none"></div><div class="appointments-confirmation-start"></div><div class="appointments-confirmation-end"></div><div class="appointments-confirmation-price" style="display:none"></div><div class="appointments-name-field" style="display:none"><label><span>Your name:</span><input type="text" class="appointments-name-field-entry" id="appointments-field-customer_name" value="" /></label></div><div class="appointments-email-field" style="display:none"><label><span>Your email:</span><input type="text" class="appointments-email-field-entry" id="appointments-field-customer_email" value="" /></label></div><div class="appointments-phone-field" style="display:none"><label><span>Your phone:</span><input type="text" class="appointments-phone-field-entry" id="appointments-field-customer_phone" value="" /></label></div><div class="appointments-address-field" style="display:none"><label><span>Your address:</span><input type="text" class="appointments-address-field-entry" id="appointments-field-customer_address" value="" /></label></div><div class="appointments-city-field" style="display:none"><label><span>City:</span><input type="text" class="appointments-city-field-entry" id="appointments-field-customer_city" value="" /></label></div><div class="appointments-note-field" style="display:none"><label><span>Your notes:</span><input type="text" class="appointments-note-field-entry" id="appointments-field-customer_note" /></label></div><div class="appointments-gcal-field" style="display:none"><label><span><img src="../wp-content/plugins/appointments/images/gc_button1.gif" /></span><input type="checkbox" class="appointments-gcal-field-entry" id="appointments-field-customer_gcal"  />&nbsp;Access Google Calendar and submit appointment</label></div><div style="clear:both"></div><div class="appointments-confirmation-buttons"><input type="hidden" class="appointments-confirmation-final-value" /><input type="button" class="appointments-confirmation-button" value="Please click here to confirm this appointment" /><input type="button" class="appointments-confirmation-cancel-button" value="Cancel" /></div></fieldset></div></td>
+</tr>
+<tr>
+<td colspan="2"><div class="appointments-paypal"><form action="https://www.sandbox.paypal.com/cgi-bin/webscr" method="post"><input type="hidden" name="business" value="" /><input type="hidden" name="cmd" value="_xclick"><input type="hidden" class="app_item_name" name="item_name" value="Payment for SERVICE" /><input type="hidden" name="no_shipping" value="1" /><input type="hidden" name="currency_code" value="USD" /><input type="hidden" name="return" value="http://3lenterprise.com.au/make-an-appointment/" /><input type="hidden" name="cancel_return" value="http://3lenterprise.com.au" /><input type="hidden" name="notify_url" value="http://3lenterprise.com.au/wp-admin/admin-ajax.php?action=app_paypal_ipn" /><input type="hidden" name="src" value="0" /><input class="app_custom" type="hidden" name="custom" value="" /><input class="app_amount" type="hidden" name="amount" value="" /><input class="app_submit_btn app_not_loggedin" type="submit" name="submit_btn" value="Please confirm PRICE USD payment for SERVICE" /><img style="display:none" alt="" border="0" width="1" height="1" src="https://www.paypal.com/en_US/i/scr/pixel.gif" /></form></div></td>
+</tr>
+</tbody>
+</table>
+			</div><!-- .entry-content -->
+	<footer class="entry-footer-insinglepost">
+			</footer><!-- .entry-footer -->
+</article><!-- #post-## -->
+
+				
+			
+		</main><!-- #main -->
+	</div><!-- #primary -->
+
+</div><!-- .col-xs-12 col-sm-12 col-md-12 -->
+</div><!-- .row -->
+</div><!-- .container -->
+	</div><!-- #content -->
+	
+<div class="container-fluid">
+<div class="row">
+	<span class="scrollup-icon"><a href="index.html?wcalendar=1606780800#" class="scrollup"></a></span>
+	<footer id="colophon" class="site-footer" role="contentinfo">
+		<div class="container">
+		<div class="row">
+		<div class="footer-widget-area">
+			<div class="col-md-4">
+				<div class="left-footer">
+						<div id="secondary" class="widget-area" role="complementary">
+		
+
+			</div><!-- #secondary -->
+				</div>
+			</div>
+			
+			<div class="col-md-4">
+				<div class="mid-footer">
+						<div id="secondary" class="widget-area" role="complementary">
+		
+
+			</div><!-- #secondary -->
+					
+				</div>
+			</div>
+
+			<div class="col-md-4">
+				<div class="right-footer">
+						<div id="secondary" class="widget-area" role="complementary">
+		
+
+			</div><!-- #secondary -->
+					
+				</div>
+			</div>						
+		</div><!-- .footer-widget-area -->
+	</div><!-- .row -->
+</div><!-- .container -->		
+	<div class="footer-site-info">
+		<div class="container">
+		<div class="row">
+			<div class="footer-details-container">
+				<div class="copyright-container">
+					Copyright © 3L Enterprise 2014	
+
+				</div><!-- .copyright-container -->
+				<div class="credit-container">
+				</div><!-- footer-menu-container -->
+			</div><!-- .footer-details-container -->
+			</div><!-- .row -->
+			</div><!-- .container -->
+		</div><!-- .site-info -->
+	</footer><!-- #colophon -->
+</div><!-- .row -->
+</div><!-- .container-fluid -->
+</div><!-- #page -->
+
+<script type="text/javascript">jQuery(document).ready(function($) {$('.app_select_services').change(function(){var selected_service=$('.app_select_services option:selected').val();if (typeof selected_service=='undefined' || selected_service===null){selected_service=1;}$('.app_service_excerpt').hide();$('#app_service_excerpt_'+selected_service).show();});$('.app_services_button').click(function(){var selected_service=$('.app_select_services option:selected').val();window.location.href='/make-an-appointment/?wcalendar=1606780800&app_service_id='+selected_service;});$(".app_monthly_schedule_wrapper table td.free").click(function(){var selected_timetable=$(".app_timetable_"+$(this).find(".appointments_select_time").val());$(".app_timetable:not(selected_timetable)").hide();selected_timetable.show("slow");});$("table.appointments-legend-table td.free").click(false);$('.appointments-login_show_login').click(function(){var app_redirect=confirm("Login required to make an appointment. Now you will be redirected to login page."); if(app_redirect){window.location.href= "http://3lenterprise.com.au/wp-login.php";}});var wait_img= "<img class='wait_img' src='../wp-content/plugins/appointments/images/waiting.gif' />";$(".appointments-list table td.free, .app_timetable div.free").not(".app_monthly_schedule_wrapper table td.free").click(function(){$(this).css("text-align","center").append(wait_img);var app_value = $(this).find(".appointments_take_appointment").val();$(".appointments-confirmation-final-value").val(app_value);var pre_data = {action: "pre_confirmation", value: app_value, nonce: "d8b174256d"};$.post(_appointments_data.ajax_url, pre_data, function(response) {$(".wait_img").remove();if ( response && response.error )alert(response.error);else{$(".appointments-confirmation-wrapper").show();$(".appointments-confirmation-service").html(response.service);if (response.worker){$(".appointments-confirmation-worker").html(response.worker).show();}$(".appointments-confirmation-start").html(response.start);$(".appointments-confirmation-end").html(response.end);$(".appointments-confirmation-price").html(response.price);if (response.price != "0"){$(".appointments-confirmation-price").show();}if (response.name =="ask"){$(".appointments-name-field").show();}if (response.email =="ask"){$(".appointments-email-field").show();}if (response.phone =="ask"){$(".appointments-phone-field").show();}if (response.address =="ask"){$(".appointments-address-field").show();}if (response.city =="ask"){$(".appointments-city-field").show();}if (response.note =="ask"){$(".appointments-note-field").show();}if (response.gcal =="ask"){$(".appointments-gcal-field").show();}if (response.additional =="ask"){$(".appointments-additional-field").show();}$(".appointments-confirmation-button").focus();}},"json");});$(".appointments-confirmation-cancel-button").click(function(){window.location.href=app_location();});$(".appointments-confirmation-button").click(function(){var final_value = $(".appointments-confirmation-final-value").val();var app_name = $(".appointments-name-field-entry").val();var app_email = $(".appointments-email-field-entry").val();var app_phone = $(".appointments-phone-field-entry").val();var app_address = $(".appointments-address-field-entry").val();var app_city = $(".appointments-city-field-entry").val();var app_note = $(".appointments-note-field-entry").val();var app_gcal = "";var app_warning_text = "Please fill in the requested field";if ($(".appointments-gcal-field-entry").is(":checked")){app_gcal=1;}var post_data = {action: "post_confirmation", value: final_value, app_name: app_name, app_email: app_email, app_phone: app_phone, app_address: app_address, app_city: app_city, app_note: app_note, app_gcal: app_gcal, nonce: "d8b174256d"};if($(".appointments-name-field-entry").val()=="" ) {alert(app_warning_text);$(".appointments-name-field-entry").focus();return false;}if($(".appointments-email-field-entry").val()=="" ) {alert(app_warning_text);$(".appointments-email-field-entry").focus();return false;}if($(".appointments-phone-field-entry").val()=="" ) {alert(app_warning_text);$(".appointments-phone-field-entry").focus();return false;}if($(".appointments-address-field-entry").val()=="" ) {alert(app_warning_text);$(".appointments-address-field-entry").focus();return false;}if($(".appointments-city-field-entry").val()=="" ) {alert(app_warning_text);$(".appointments-city-field-entry").focus();return false;}$(".appointments-confirmation-cancel-button").after(wait_img);$.post(_appointments_data.ajax_url, post_data, function(response) {$(".wait_img").remove();if ( response && response.error ) {alert(response.error);}else if ( response && ( response.refresh=="1" || response.price==0 ) ) {alert("We have received your appointment. Thanks!");if ( response.gcal_url != "" ) {if ( response.gcal_same_window ) {window.open(response.gcal_url,"_self");}else {window.open(response.gcal_url,"_blank");window.location.href=app_location();}}else {window.location.href=app_location();}}else if ( response ) {$(".appointments-paypal").find(".app_amount").val(response.price);$(".appointments-paypal").find(".app_custom").val(response.app_id);var old_val = $(".appointments-paypal").find(".app_submit_btn").val();if ( old_val ) {var new_val = old_val.replace("PRICE",response.price).replace("SERVICE",response.service_name);$(".appointments-paypal").find(".app_submit_btn").val(new_val);var old_val2 = $(".appointments-paypal").find(".app_item_name").val();var new_val2 = old_val2.replace("SERVICE",response.service_name);$(".appointments-paypal").find(".app_item_name").val(new_val2);$(".appointments-paypal .app_submit_btn").focus();}if ( response.gcal_url != "" ) {window.open(response.gcal_url,"_blank");}if ( response.mp == 1 ) {$(".mp_buy_form").find("[name='variation']").remove().end().append("<input type='hidden' name='variation' />");$(".mp_buy_form input[name='variation']").val(response.variation);$(".mp_buy_form").show();}else {$(".appointments-paypal").show();}}else{alert("A connection problem occurred. Please try again.");}$(document).trigger("app-confirmation-response_received", [response]);},"json");});});</script><script type='text/javascript' src='../wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpcf7 = {"loaderUrl":"http:\/\/3lenterprise.com.au\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","sending":"Sending ..."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='../wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=3.9.3'></script>
+<script type='text/javascript' src='../wp-content/themes/thbusiness/js/navigation.js?ver=20120206'></script>
+<script type='text/javascript' src='../wp-content/themes/thbusiness/js/bootstrap.min.js?ver=3.9.1'></script>
+<script type='text/javascript' src='../wp-content/themes/thbusiness/js/skip-link-focus-fix.js?ver=20130115'></script>
+<script type='text/javascript' src='../wp-content/themes/thbusiness/js/jquery.flexslider-min.js?ver=3.9.1'></script>
+<script type='text/javascript' src='../wp-content/themes/thbusiness/js/thbusiness.flexslider.js?ver=3.9.1'></script>
+
+</body>
+</html>

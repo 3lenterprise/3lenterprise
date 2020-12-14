@@ -1,0 +1,326 @@
+<!DOCTYPE html>
+<html lang="en-US" prefix="og: http://ogp.me/ns#">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>3L Enterprise</title>
+<link rel="profile" href="http://gmpg.org/xfn/11">
+<link rel="pingback" href="../xmlrpc.php">
+
+
+<!-- This site is optimized with the Yoast WordPress SEO plugin v1.6.1 - https://yoast.com/wordpress/plugins/seo/ -->
+<link rel="canonical" href="../index.html?p=71" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="3L Enterprise" />
+<meta property="og:url" content="http://3lenterprise.com.au/make-an-appointment/" />
+<meta property="og:site_name" content="3L Enterprise" />
+<!-- / Yoast WordPress SEO plugin. -->
+
+<link rel="alternate" type="application/rss+xml" title="3L Enterprise &raquo; Feed" href="http://3lenterprise.com.au/feed/" />
+<link rel="alternate" type="application/rss+xml" title="3L Enterprise &raquo; Comments Feed" href="http://3lenterprise.com.au/comments/feed/" />
+<link rel='stylesheet' id='wuc_font-css'  href='http://fonts.googleapis.com/css?family=Open+Sans%3A300italic%2C400%2C600&#038;ver=3.9.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wuc_style-css'  href='../wp-content/plugins/wp-construction-mode/style/style.css?ver=1.8' type='text/css' media='all' />
+<link rel='stylesheet' id='appointments-css'  href='../wp-content/plugins/appointments/css/front.css?ver=1.4.4-beta-1' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='../wp-content/plugins/contact-form-7/includes/css/styles.css?ver=3.9.3' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='../wp-content/themes/thbusiness/css/font-awesome.min.css?ver=4.1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap.css-css'  href='../wp-content/themes/thbusiness/css/bootstrap.min.css?ver=all' type='text/css' media='all' />
+<link rel='stylesheet' id='thbusiness-style-css'  href='../wp-content/themes/thbusiness/style.css?ver=3.9.1' type='text/css' media='all' />
+<link rel='stylesheet' id='add-flex-css-css'  href='../wp-content/themes/thbusiness/css/flexslider.css?ver=3.9.1' type='text/css' media='screen' />
+<link rel='stylesheet' id='tablepress-default-css'  href='../wp-content/plugins/tablepress/css/default.min.css?ver=1.4' type='text/css' media='all' />
+<link rel='stylesheet' id='googleWebFonts-css'  href='http://fonts.googleapis.com/css?family=PT+Sans%3A400%2C700&#038;ver=3.9.1' type='text/css' media='all' />
+<script type='text/javascript' src='../wp-includes/js/jquery/jquery.js?ver=1.11.0'></script>
+<script type='text/javascript' src='../wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='../wp-content/plugins/appointments/js/jquery.tablesorter.min.js?ver=1.4.4-beta-1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _appointments_data = {"ajax_url":"http:\/\/3lenterprise.com.au\/wp-admin\/admin-ajax.php","root_url":"http:\/\/3lenterprise.com.au\/wp-content\/plugins\/appointments\/images\/"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='../wp-content/plugins/appointments/js/js-check.js?ver=1.4.4-beta-1'></script>
+<script type='text/javascript' src='../wp-content/themes/thbusiness/js/scripts.js?ver=3.9.1'></script>
+<script type='text/javascript' src='../wp-content/themes/thbusiness/js/respond.min.js?ver=3.9.1'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="../xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="../wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 3.9.1" />
+<link rel='shortlink' href='../index.html?p=71' />
+<link rel="shortcut icon" href="../wp-content/uploads/2014/08/favicon1.ico" type="image/x-icon" />
+	<style type="text/css">
+	a:hover,
+		a:focus,
+		a:active {
+			color: #7aa826;
+		}
+		blockquote {
+			border-left: 3px solid #7aa826;
+		}
+		.main-navigation ul ul {
+			border-top: 3px solid #7aa826;
+		}
+		.main-navigation li:hover > a {
+			border-bottom: 3px solid #7aa826;
+		}
+		.main-navigation a:hover, 
+		.main-navigation ul li.current-menu-item a, 
+		.main-navigation ul li.current_page_ancestor a, 
+		.main-navigation ul li.current-menu-ancestor a, 
+		.main-navigation ul li.current_page_item a,
+		.main-navigation ul li:hover > a {
+			color: #7aa826;
+		}
+		.widget-title {
+			border-bottom: 3px solid #7aa826;
+		}
+		.th-services-box:hover .th-services-icon {
+			border: 1px solid #7aa826;
+			color: #7aa826;
+		}
+		.th-services-box:hover .th-morelink {
+			background: #7aa826;
+		}
+		.th-morelink {
+			color: #7aa826;
+		}
+		.th-morelink:visited {
+			color: #7aa826;
+		}
+		.call-to-action-button {
+			background: #7aa826;
+		}
+		.singlepage-widget-moretag {
+			background: #7aa826;
+		}		
+		.moretag {
+			background: #7aa826;
+		}
+		.comment-author .fn,
+		.comment-author .url,
+		.comment-reply-link,
+		.comment-reply-login {
+			color: #7aa826;
+		}
+		a:hover.page-numbers {
+			background-color: #7aa826;
+		}
+		.paging-navigation .current {
+			background-color: #7aa826;
+		}
+		.page-links span a{
+			background: #7aa826;
+		}
+		.page-links a:hover {
+			background: #7aa826;
+		}
+		.th-slider-readmore-button a {
+			background: #7aa826;
+		}
+		.site-footer a:hover {
+			color: #7aa826;
+		}
+		.th-search-box-container {
+			border-top: 3px solid #7aa826;
+		}
+		#th-search-form input[type="submit"] {
+			background-color: #7aa826;
+		}	</style>
+		<style type="text/css">
+		.entry-content td{border:none;width:50%}td.free,div.free {background: #48c048 !important;}td.busy,div.busy {background: #276627 !important;}td.notpossible,div.notpossible {background: #5e5c5e !important;}.appointments-login_link-google{display:none !important;}		</style>
+		</head>
+
+<body class="page page-id-71 page-template page-template-layoutspage-fullwidth-php custom-background siteorigin-panels">
+
+<div id="page" class="hfeed site">
+	<div class="container-fluid">
+	<div class="row">
+	
+	<header id="masthead" class="site-header" role="banner">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-4 col-xs-12 col-lg-4">
+					<div class="site-branding">
+													<div class="site-logo-image">
+								<a href="../index.html" title="3L Enterprise" rel="home"><img src="../wp-content/uploads/2014/09/3L-Logo-no-background.png" alt="3L Enterprise"></a>
+							</div>
+																	</div>
+				</div><!-- .col-md-4 .col-xs-12 .col-lg-4 -->
+
+				<div class="col-md-8 col-xs-12 col-lg-8">
+					<nav id="site-navigation" class="main-navigation" role="navigation">
+						<div class="menu"><ul><li ><a href="../index.html">Home</a></li><li class="page_item page-item-26"><a href="../index.html?p=26">About Us</a></li><li class="page_item page-item-76"><a href="../index.html?p=76">Our Services</a></li><li class="page_item page-item-71 current_page_item"><a href="../index.html?p=71">Make an Appointment</a></li><li class="page_item page-item-22"><a href="../index.html?p=22">Contact Us</a></li></ul></div>
+					</nav><!-- #site-navigation -->
+					<a href="index.html?wcalendar=1614556800#" class="navbutton" id="main-nav-button">Main Menu</a>
+					<div class="responsive-mainnav"></div>
+
+					<div class="th-search-button-icon"></div>
+					<div class="th-search-box-container">
+						<div class="th-search-box">
+							<form action="../index.html" id="th-search-form" method="get">
+								<input type="text" value="" name="s" id="s" />
+								<input type="submit" value="Search" />
+							</form>
+						</div><!-- th-search-box -->
+					</div><!-- .th-search-box-container -->
+				</div><!-- .col-md-8 .col-xs-12 .col-lg-8 -->
+			</div><!-- .row -->
+		</div><!-- container -->
+	</header><!-- #masthead -->
+	
+		
+	
+	</div><!-- .row -->
+	</div><!-- .container-fluid -->
+
+	<div id="content" class="site-content">
+<div class="container">
+	<div class="row"><div class="col-xs-12 col-sm-12 col-md-12">
+	<div id="primary" class="content-area">
+		<main id="main" class="site-main" role="main">
+
+			
+				
+<article id="post-71" class="post-71 page type-page status-publish hentry">
+	<header class="page-header">
+		<h1 class="page-title">Make an Appointment</h1>	</header><!-- .page-header -->
+
+	<div class="entry-content">
+		<table width="227">
+<tbody>
+<tr>
+<td><div class="app_services"><div class="app_services_dropdown"><div class="app_services_dropdown_title">Please select a service:</div><div class="app_services_dropdown_select"><select name="app_select_services" class="app_select_services"><option value="1" selected="selected">Electrical Consulting</option><option value="2">Building Inspection</option></select><input type="button" class="app_services_button" value="Show available times"></div></div><div class="app_service_excerpts"><div  class="app_service_excerpt" id="app_service_excerpt_1" ></div><div  style="display:none" class="app_service_excerpt" id="app_service_excerpt_2" ></div></div></div></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"><div class="appointments-wrapper"><h3>Our schedule for March 2021</h3><div class='appointments-instructions'>Click a free day to apply for an appointment.</div><div class="appointments-list"><div class="app_monthly_schedule_wrapper"><a id="app_schedule">&nbsp;</a><table width='100%' ><thead><tr><th>Mo</th><th>Tu</th><th>We</th><th>Th</th><th>Fr</th><th>Sa</th><th>Su</th></tr></thead><tbody><tr></tr><tr><td class="free" title="March 1, 2021"><p>1</p>
+			<input type="hidden" class="appointments_select_time" value="1614556800" /></td><td class="free" title="March 2, 2021"><p>2</p>
+			<input type="hidden" class="appointments_select_time" value="1614643200" /></td><td class="free" title="March 3, 2021"><p>3</p>
+			<input type="hidden" class="appointments_select_time" value="1614729600" /></td><td class="free" title="March 4, 2021"><p>4</p>
+			<input type="hidden" class="appointments_select_time" value="1614816000" /></td><td class="free" title="March 5, 2021"><p>5</p>
+			<input type="hidden" class="appointments_select_time" value="1614902400" /></td><td class="notpossible notworking" title="March 6, 2021"><p>6</p>
+			<input type="hidden" class="appointments_select_time" value="1614988800" /></td><td class="notpossible notworking" title="March 7, 2021"><p>7</p>
+			<input type="hidden" class="appointments_select_time" value="1615075200" /></td></tr><tr><td class="free" title="March 8, 2021"><p>8</p>
+			<input type="hidden" class="appointments_select_time" value="1615161600" /></td><td class="free" title="March 9, 2021"><p>9</p>
+			<input type="hidden" class="appointments_select_time" value="1615248000" /></td><td class="free" title="March 10, 2021"><p>10</p>
+			<input type="hidden" class="appointments_select_time" value="1615334400" /></td><td class="free" title="March 11, 2021"><p>11</p>
+			<input type="hidden" class="appointments_select_time" value="1615420800" /></td><td class="free" title="March 12, 2021"><p>12</p>
+			<input type="hidden" class="appointments_select_time" value="1615507200" /></td><td class="notpossible notworking" title="March 13, 2021"><p>13</p>
+			<input type="hidden" class="appointments_select_time" value="1615593600" /></td><td class="notpossible notworking" title="March 14, 2021"><p>14</p>
+			<input type="hidden" class="appointments_select_time" value="1615680000" /></td></tr><tr><td class="notpossible" title="March 15, 2021"><p>15</p>
+			<input type="hidden" class="appointments_select_time" value="1615766400" /></td><td class="notpossible" title="March 16, 2021"><p>16</p>
+			<input type="hidden" class="appointments_select_time" value="1615852800" /></td><td class="notpossible" title="March 17, 2021"><p>17</p>
+			<input type="hidden" class="appointments_select_time" value="1615939200" /></td><td class="notpossible" title="March 18, 2021"><p>18</p>
+			<input type="hidden" class="appointments_select_time" value="1616025600" /></td><td class="notpossible" title="March 19, 2021"><p>19</p>
+			<input type="hidden" class="appointments_select_time" value="1616112000" /></td><td class="notpossible notworking" title="March 20, 2021"><p>20</p>
+			<input type="hidden" class="appointments_select_time" value="1616198400" /></td><td class="notpossible notworking" title="March 21, 2021"><p>21</p>
+			<input type="hidden" class="appointments_select_time" value="1616284800" /></td></tr><tr><td class="notpossible" title="March 22, 2021"><p>22</p>
+			<input type="hidden" class="appointments_select_time" value="1616371200" /></td><td class="notpossible" title="March 23, 2021"><p>23</p>
+			<input type="hidden" class="appointments_select_time" value="1616457600" /></td><td class="notpossible" title="March 24, 2021"><p>24</p>
+			<input type="hidden" class="appointments_select_time" value="1616544000" /></td><td class="notpossible" title="March 25, 2021"><p>25</p>
+			<input type="hidden" class="appointments_select_time" value="1616630400" /></td><td class="notpossible" title="March 26, 2021"><p>26</p>
+			<input type="hidden" class="appointments_select_time" value="1616716800" /></td><td class="notpossible notworking" title="March 27, 2021"><p>27</p>
+			<input type="hidden" class="appointments_select_time" value="1616803200" /></td><td class="notpossible notworking" title="March 28, 2021"><p>28</p>
+			<input type="hidden" class="appointments_select_time" value="1616889600" /></td></tr><tr><td class="notpossible" title="March 29, 2021"><p>29</p>
+			<input type="hidden" class="appointments_select_time" value="1616976000" /></td><td class="notpossible" title="March 30, 2021"><p>30</p>
+			<input type="hidden" class="appointments_select_time" value="1617062400" /></td><td class="notpossible" title="March 31, 2021"><p>31</p>
+			<input type="hidden" class="appointments_select_time" value="1617148800" /></td><td class="no-right-border" colspan="4">&nbsp;</td></tr></tbody><tfoot><tr><th>Mo</th><th>Tu</th><th>We</th><th>Th</th><th>Fr</th><th>Sa</th><th>Su</th></tr></tfoot></table></div><div class="app_timetable_wrapper"><div class="app_timetable app_timetable_1614556800"><div class="app_timetable_title">March 1, 2021</div><div class="app_timetable_cell free" title="March 1, 2021 8:00 am">8:00 am<input type="hidden" class="appointments_take_appointment" value="0:1:0:1614585600:1614589200:71" /></div><div class="app_timetable_cell free" title="March 1, 2021 9:00 am">9:00 am<input type="hidden" class="appointments_take_appointment" value="0:1:0:1614589200:1614592800:71" /></div><div class="app_timetable_cell free" title="March 1, 2021 10:00 am">10:00 am<input type="hidden" class="appointments_take_appointment" value="0:1:0:1614592800:1614596400:71" /></div><div class="app_timetable_cell free" title="March 1, 2021 11:00 am">11:00 am<input type="hidden" class="appointments_take_appointment" value="0:1:0:1614596400:1614600000:71" /></div><div class="app_timetable_cell free" title="March 1, 2021 12:00 pm">12:00 pm<input type="hidden" class="appointments_take_appointment" value="0:1:0:1614600000:1614603600:71" /></div><div class="app_timetable_cell free" title="March 1, 2021 1:00 pm">1:00 pm<input type="hidden" class="appointments_take_appointment" value="0:1:0:1614603600:1614607200:71" /></div><div class="app_timetable_cell free" title="March 1, 2021 2:00 pm">2:00 pm<input type="hidden" class="appointments_take_appointment" value="0:1:0:1614607200:1614610800:71" /></div><div class="app_timetable_cell free" title="March 1, 2021 3:00 pm">3:00 pm<input type="hidden" class="appointments_take_appointment" value="0:1:0:1614610800:1614614400:71" /></div><div class="app_timetable_cell free" title="March 1, 2021 4:00 pm">4:00 pm<input type="hidden" class="appointments_take_appointment" value="0:1:0:1614614400:1614618000:71" /></div><div style="clear:both"></div></div><div class="app_timetable app_timetable_1614643200" style="display:none"><div class="app_timetable_title">March 2, 2021</div><div class="app_timetable_cell free" title="March 2, 2021 8:00 am">8:00 am<input type="hidden" class="appointments_take_appointment" value="0:1:0:1614672000:1614675600:71" /></div><div class="app_timetable_cell free" title="March 2, 2021 9:00 am">9:00 am<input type="hidden" class="appointments_take_appointment" value="0:1:0:1614675600:1614679200:71" /></div><div class="app_timetable_cell free" title="March 2, 2021 10:00 am">10:00 am<input type="hidden" class="appointments_take_appointment" value="0:1:0:1614679200:1614682800:71" /></div><div class="app_timetable_cell free" title="March 2, 2021 11:00 am">11:00 am<input type="hidden" class="appointments_take_appointment" value="0:1:0:1614682800:1614686400:71" /></div><div class="app_timetable_cell free" title="March 2, 2021 12:00 pm">12:00 pm<input type="hidden" class="appointments_take_appointment" value="0:1:0:1614686400:1614690000:71" /></div><div class="app_timetable_cell free" title="March 2, 2021 1:00 pm">1:00 pm<input type="hidden" class="appointments_take_appointment" value="0:1:0:1614690000:1614693600:71" /></div><div class="app_timetable_cell free" title="March 2, 2021 2:00 pm">2:00 pm<input type="hidden" class="appointments_take_appointment" value="0:1:0:1614693600:1614697200:71" /></div><div class="app_timetable_cell free" title="March 2, 2021 3:00 pm">3:00 pm<input type="hidden" class="appointments_take_appointment" value="0:1:0:1614697200:1614700800:71" /></div><div class="app_timetable_cell free" title="March 2, 2021 4:00 pm">4:00 pm<input type="hidden" class="appointments_take_appointment" value="0:1:0:1614700800:1614704400:71" /></div><div style="clear:both"></div></div><div class="app_timetable app_timetable_1614729600" style="display:none"><div class="app_timetable_title">March 3, 2021</div><div class="app_timetable_cell free" title="March 3, 2021 8:00 am">8:00 am<input type="hidden" class="appointments_take_appointment" value="0:1:0:1614758400:1614762000:71" /></div><div class="app_timetable_cell free" title="March 3, 2021 9:00 am">9:00 am<input type="hidden" class="appointments_take_appointment" value="0:1:0:1614762000:1614765600:71" /></div><div class="app_timetable_cell free" title="March 3, 2021 10:00 am">10:00 am<input type="hidden" class="appointments_take_appointment" value="0:1:0:1614765600:1614769200:71" /></div><div class="app_timetable_cell free" title="March 3, 2021 11:00 am">11:00 am<input type="hidden" class="appointments_take_appointment" value="0:1:0:1614769200:1614772800:71" /></div><div class="app_timetable_cell free" title="March 3, 2021 12:00 pm">12:00 pm<input type="hidden" class="appointments_take_appointment" value="0:1:0:1614772800:1614776400:71" /></div><div class="app_timetable_cell free" title="March 3, 2021 1:00 pm">1:00 pm<input type="hidden" class="appointments_take_appointment" value="0:1:0:1614776400:1614780000:71" /></div><div class="app_timetable_cell free" title="March 3, 2021 2:00 pm">2:00 pm<input type="hidden" class="appointments_take_appointment" value="0:1:0:1614780000:1614783600:71" /></div><div class="app_timetable_cell free" title="March 3, 2021 3:00 pm">3:00 pm<input type="hidden" class="appointments_take_appointment" value="0:1:0:1614783600:1614787200:71" /></div><div class="app_timetable_cell free" title="March 3, 2021 4:00 pm">4:00 pm<input type="hidden" class="appointments_take_appointment" value="0:1:0:1614787200:1614790800:71" /></div><div style="clear:both"></div></div><div class="app_timetable app_timetable_1614816000" style="display:none"><div class="app_timetable_title">March 4, 2021</div><div class="app_timetable_cell free" title="March 4, 2021 8:00 am">8:00 am<input type="hidden" class="appointments_take_appointment" value="0:1:0:1614844800:1614848400:71" /></div><div class="app_timetable_cell free" title="March 4, 2021 9:00 am">9:00 am<input type="hidden" class="appointments_take_appointment" value="0:1:0:1614848400:1614852000:71" /></div><div class="app_timetable_cell free" title="March 4, 2021 10:00 am">10:00 am<input type="hidden" class="appointments_take_appointment" value="0:1:0:1614852000:1614855600:71" /></div><div class="app_timetable_cell free" title="March 4, 2021 11:00 am">11:00 am<input type="hidden" class="appointments_take_appointment" value="0:1:0:1614855600:1614859200:71" /></div><div class="app_timetable_cell free" title="March 4, 2021 12:00 pm">12:00 pm<input type="hidden" class="appointments_take_appointment" value="0:1:0:1614859200:1614862800:71" /></div><div class="app_timetable_cell free" title="March 4, 2021 1:00 pm">1:00 pm<input type="hidden" class="appointments_take_appointment" value="0:1:0:1614862800:1614866400:71" /></div><div class="app_timetable_cell free" title="March 4, 2021 2:00 pm">2:00 pm<input type="hidden" class="appointments_take_appointment" value="0:1:0:1614866400:1614870000:71" /></div><div class="app_timetable_cell free" title="March 4, 2021 3:00 pm">3:00 pm<input type="hidden" class="appointments_take_appointment" value="0:1:0:1614870000:1614873600:71" /></div><div class="app_timetable_cell free" title="March 4, 2021 4:00 pm">4:00 pm<input type="hidden" class="appointments_take_appointment" value="0:1:0:1614873600:1614877200:71" /></div><div style="clear:both"></div></div><div class="app_timetable app_timetable_1614902400" style="display:none"><div class="app_timetable_title">March 5, 2021</div><div class="app_timetable_cell free" title="March 5, 2021 8:00 am">8:00 am<input type="hidden" class="appointments_take_appointment" value="0:1:0:1614931200:1614934800:71" /></div><div class="app_timetable_cell free" title="March 5, 2021 9:00 am">9:00 am<input type="hidden" class="appointments_take_appointment" value="0:1:0:1614934800:1614938400:71" /></div><div class="app_timetable_cell free" title="March 5, 2021 10:00 am">10:00 am<input type="hidden" class="appointments_take_appointment" value="0:1:0:1614938400:1614942000:71" /></div><div class="app_timetable_cell free" title="March 5, 2021 11:00 am">11:00 am<input type="hidden" class="appointments_take_appointment" value="0:1:0:1614942000:1614945600:71" /></div><div class="app_timetable_cell free" title="March 5, 2021 12:00 pm">12:00 pm<input type="hidden" class="appointments_take_appointment" value="0:1:0:1614945600:1614949200:71" /></div><div class="app_timetable_cell free" title="March 5, 2021 1:00 pm">1:00 pm<input type="hidden" class="appointments_take_appointment" value="0:1:0:1614949200:1614952800:71" /></div><div class="app_timetable_cell free" title="March 5, 2021 2:00 pm">2:00 pm<input type="hidden" class="appointments_take_appointment" value="0:1:0:1614952800:1614956400:71" /></div><div class="app_timetable_cell free" title="March 5, 2021 3:00 pm">3:00 pm<input type="hidden" class="appointments_take_appointment" value="0:1:0:1614956400:1614960000:71" /></div><div class="app_timetable_cell free" title="March 5, 2021 4:00 pm">4:00 pm<input type="hidden" class="appointments_take_appointment" value="0:1:0:1614960000:1614963600:71" /></div><div style="clear:both"></div></div><div class="app_timetable app_timetable_1615161600" style="display:none"><div class="app_timetable_title">March 8, 2021</div><div class="app_timetable_cell free" title="March 8, 2021 8:00 am">8:00 am<input type="hidden" class="appointments_take_appointment" value="0:1:0:1615190400:1615194000:71" /></div><div class="app_timetable_cell free" title="March 8, 2021 9:00 am">9:00 am<input type="hidden" class="appointments_take_appointment" value="0:1:0:1615194000:1615197600:71" /></div><div class="app_timetable_cell free" title="March 8, 2021 10:00 am">10:00 am<input type="hidden" class="appointments_take_appointment" value="0:1:0:1615197600:1615201200:71" /></div><div class="app_timetable_cell free" title="March 8, 2021 11:00 am">11:00 am<input type="hidden" class="appointments_take_appointment" value="0:1:0:1615201200:1615204800:71" /></div><div class="app_timetable_cell free" title="March 8, 2021 12:00 pm">12:00 pm<input type="hidden" class="appointments_take_appointment" value="0:1:0:1615204800:1615208400:71" /></div><div class="app_timetable_cell free" title="March 8, 2021 1:00 pm">1:00 pm<input type="hidden" class="appointments_take_appointment" value="0:1:0:1615208400:1615212000:71" /></div><div class="app_timetable_cell free" title="March 8, 2021 2:00 pm">2:00 pm<input type="hidden" class="appointments_take_appointment" value="0:1:0:1615212000:1615215600:71" /></div><div class="app_timetable_cell free" title="March 8, 2021 3:00 pm">3:00 pm<input type="hidden" class="appointments_take_appointment" value="0:1:0:1615215600:1615219200:71" /></div><div class="app_timetable_cell free" title="March 8, 2021 4:00 pm">4:00 pm<input type="hidden" class="appointments_take_appointment" value="0:1:0:1615219200:1615222800:71" /></div><div style="clear:both"></div></div><div class="app_timetable app_timetable_1615248000" style="display:none"><div class="app_timetable_title">March 9, 2021</div><div class="app_timetable_cell free" title="March 9, 2021 8:00 am">8:00 am<input type="hidden" class="appointments_take_appointment" value="0:1:0:1615276800:1615280400:71" /></div><div class="app_timetable_cell free" title="March 9, 2021 9:00 am">9:00 am<input type="hidden" class="appointments_take_appointment" value="0:1:0:1615280400:1615284000:71" /></div><div class="app_timetable_cell free" title="March 9, 2021 10:00 am">10:00 am<input type="hidden" class="appointments_take_appointment" value="0:1:0:1615284000:1615287600:71" /></div><div class="app_timetable_cell free" title="March 9, 2021 11:00 am">11:00 am<input type="hidden" class="appointments_take_appointment" value="0:1:0:1615287600:1615291200:71" /></div><div class="app_timetable_cell free" title="March 9, 2021 12:00 pm">12:00 pm<input type="hidden" class="appointments_take_appointment" value="0:1:0:1615291200:1615294800:71" /></div><div class="app_timetable_cell free" title="March 9, 2021 1:00 pm">1:00 pm<input type="hidden" class="appointments_take_appointment" value="0:1:0:1615294800:1615298400:71" /></div><div class="app_timetable_cell free" title="March 9, 2021 2:00 pm">2:00 pm<input type="hidden" class="appointments_take_appointment" value="0:1:0:1615298400:1615302000:71" /></div><div class="app_timetable_cell free" title="March 9, 2021 3:00 pm">3:00 pm<input type="hidden" class="appointments_take_appointment" value="0:1:0:1615302000:1615305600:71" /></div><div class="app_timetable_cell free" title="March 9, 2021 4:00 pm">4:00 pm<input type="hidden" class="appointments_take_appointment" value="0:1:0:1615305600:1615309200:71" /></div><div style="clear:both"></div></div><div class="app_timetable app_timetable_1615334400" style="display:none"><div class="app_timetable_title">March 10, 2021</div><div class="app_timetable_cell free" title="March 10, 2021 8:00 am">8:00 am<input type="hidden" class="appointments_take_appointment" value="0:1:0:1615363200:1615366800:71" /></div><div class="app_timetable_cell free" title="March 10, 2021 9:00 am">9:00 am<input type="hidden" class="appointments_take_appointment" value="0:1:0:1615366800:1615370400:71" /></div><div class="app_timetable_cell free" title="March 10, 2021 10:00 am">10:00 am<input type="hidden" class="appointments_take_appointment" value="0:1:0:1615370400:1615374000:71" /></div><div class="app_timetable_cell free" title="March 10, 2021 11:00 am">11:00 am<input type="hidden" class="appointments_take_appointment" value="0:1:0:1615374000:1615377600:71" /></div><div class="app_timetable_cell free" title="March 10, 2021 12:00 pm">12:00 pm<input type="hidden" class="appointments_take_appointment" value="0:1:0:1615377600:1615381200:71" /></div><div class="app_timetable_cell free" title="March 10, 2021 1:00 pm">1:00 pm<input type="hidden" class="appointments_take_appointment" value="0:1:0:1615381200:1615384800:71" /></div><div class="app_timetable_cell free" title="March 10, 2021 2:00 pm">2:00 pm<input type="hidden" class="appointments_take_appointment" value="0:1:0:1615384800:1615388400:71" /></div><div class="app_timetable_cell free" title="March 10, 2021 3:00 pm">3:00 pm<input type="hidden" class="appointments_take_appointment" value="0:1:0:1615388400:1615392000:71" /></div><div class="app_timetable_cell free" title="March 10, 2021 4:00 pm">4:00 pm<input type="hidden" class="appointments_take_appointment" value="0:1:0:1615392000:1615395600:71" /></div><div style="clear:both"></div></div><div class="app_timetable app_timetable_1615420800" style="display:none"><div class="app_timetable_title">March 11, 2021</div><div class="app_timetable_cell free" title="March 11, 2021 8:00 am">8:00 am<input type="hidden" class="appointments_take_appointment" value="0:1:0:1615449600:1615453200:71" /></div><div class="app_timetable_cell free" title="March 11, 2021 9:00 am">9:00 am<input type="hidden" class="appointments_take_appointment" value="0:1:0:1615453200:1615456800:71" /></div><div class="app_timetable_cell free" title="March 11, 2021 10:00 am">10:00 am<input type="hidden" class="appointments_take_appointment" value="0:1:0:1615456800:1615460400:71" /></div><div class="app_timetable_cell free" title="March 11, 2021 11:00 am">11:00 am<input type="hidden" class="appointments_take_appointment" value="0:1:0:1615460400:1615464000:71" /></div><div class="app_timetable_cell free" title="March 11, 2021 12:00 pm">12:00 pm<input type="hidden" class="appointments_take_appointment" value="0:1:0:1615464000:1615467600:71" /></div><div class="app_timetable_cell free" title="March 11, 2021 1:00 pm">1:00 pm<input type="hidden" class="appointments_take_appointment" value="0:1:0:1615467600:1615471200:71" /></div><div class="app_timetable_cell free" title="March 11, 2021 2:00 pm">2:00 pm<input type="hidden" class="appointments_take_appointment" value="0:1:0:1615471200:1615474800:71" /></div><div class="app_timetable_cell free" title="March 11, 2021 3:00 pm">3:00 pm<input type="hidden" class="appointments_take_appointment" value="0:1:0:1615474800:1615478400:71" /></div><div class="app_timetable_cell free" title="March 11, 2021 4:00 pm">4:00 pm<input type="hidden" class="appointments_take_appointment" value="0:1:0:1615478400:1615482000:71" /></div><div style="clear:both"></div></div><div class="app_timetable app_timetable_1615507200" style="display:none"><div class="app_timetable_title">March 12, 2021</div><div class="app_timetable_cell free" title="March 12, 2021 8:00 am">8:00 am<input type="hidden" class="appointments_take_appointment" value="0:1:0:1615536000:1615539600:71" /></div><div class="app_timetable_cell free" title="March 12, 2021 9:00 am">9:00 am<input type="hidden" class="appointments_take_appointment" value="0:1:0:1615539600:1615543200:71" /></div><div class="app_timetable_cell free" title="March 12, 2021 10:00 am">10:00 am<input type="hidden" class="appointments_take_appointment" value="0:1:0:1615543200:1615546800:71" /></div><div class="app_timetable_cell free" title="March 12, 2021 11:00 am">11:00 am<input type="hidden" class="appointments_take_appointment" value="0:1:0:1615546800:1615550400:71" /></div><div class="app_timetable_cell free" title="March 12, 2021 12:00 pm">12:00 pm<input type="hidden" class="appointments_take_appointment" value="0:1:0:1615550400:1615554000:71" /></div><div class="app_timetable_cell free" title="March 12, 2021 1:00 pm">1:00 pm<input type="hidden" class="appointments_take_appointment" value="0:1:0:1615554000:1615557600:71" /></div><div class="app_timetable_cell free" title="March 12, 2021 2:00 pm">2:00 pm<input type="hidden" class="appointments_take_appointment" value="0:1:0:1615557600:1615561200:71" /></div><div class="app_timetable_cell free" title="March 12, 2021 3:00 pm">3:00 pm<input type="hidden" class="appointments_take_appointment" value="0:1:0:1615561200:1615564800:71" /></div><div class="app_timetable_cell free" title="March 12, 2021 4:00 pm">4:00 pm<input type="hidden" class="appointments_take_appointment" value="0:1:0:1615564800:1615568400:71" /></div><div style="clear:both"></div></div></div><div style="clear:both"></div></div></div></td>
+</tr>
+<tr>
+<td colspan="2"><div class="appointments-legend"><table class="appointments-legend-table"><tr><td class="class-name">Free</td><td class="free">&nbsp;</td><td class="class-name">Busy</td><td class="busy">&nbsp;</td><td class="class-name">Not possible</td><td class="notpossible">&nbsp;</td></tr><tr></tr></table></div><div class="appointments-pagination"><div class="previous"><a href="index.html?wcalendar=1612137600#app_schedule">&laquo; Previous Month</a></div><div style="clear:both"></div></div></td>
+</tr>
+<tr>
+<td colspan="2"><div class="appointments-login"><div class="appointments-login_inner"></div></div></td>
+</tr>
+<tr>
+<td colspan="2"><div class="appointments-confirmation-wrapper"><fieldset><legend><h3>Please check the appointment details below and confirm:</h3></legend><div class="appointments-confirmation-service"></div><div class="appointments-confirmation-worker" style="display:none"></div><div class="appointments-confirmation-start"></div><div class="appointments-confirmation-end"></div><div class="appointments-confirmation-price" style="display:none"></div><div class="appointments-name-field" style="display:none"><label><span>Your name:</span><input type="text" class="appointments-name-field-entry" id="appointments-field-customer_name" value="" /></label></div><div class="appointments-email-field" style="display:none"><label><span>Your email:</span><input type="text" class="appointments-email-field-entry" id="appointments-field-customer_email" value="" /></label></div><div class="appointments-phone-field" style="display:none"><label><span>Your phone:</span><input type="text" class="appointments-phone-field-entry" id="appointments-field-customer_phone" value="" /></label></div><div class="appointments-address-field" style="display:none"><label><span>Your address:</span><input type="text" class="appointments-address-field-entry" id="appointments-field-customer_address" value="" /></label></div><div class="appointments-city-field" style="display:none"><label><span>City:</span><input type="text" class="appointments-city-field-entry" id="appointments-field-customer_city" value="" /></label></div><div class="appointments-note-field" style="display:none"><label><span>Your notes:</span><input type="text" class="appointments-note-field-entry" id="appointments-field-customer_note" /></label></div><div class="appointments-gcal-field" style="display:none"><label><span><img src="../wp-content/plugins/appointments/images/gc_button1.gif" /></span><input type="checkbox" class="appointments-gcal-field-entry" id="appointments-field-customer_gcal"  />&nbsp;Access Google Calendar and submit appointment</label></div><div style="clear:both"></div><div class="appointments-confirmation-buttons"><input type="hidden" class="appointments-confirmation-final-value" /><input type="button" class="appointments-confirmation-button" value="Please click here to confirm this appointment" /><input type="button" class="appointments-confirmation-cancel-button" value="Cancel" /></div></fieldset></div></td>
+</tr>
+<tr>
+<td colspan="2"><div class="appointments-paypal"><form action="https://www.sandbox.paypal.com/cgi-bin/webscr" method="post"><input type="hidden" name="business" value="" /><input type="hidden" name="cmd" value="_xclick"><input type="hidden" class="app_item_name" name="item_name" value="Payment for SERVICE" /><input type="hidden" name="no_shipping" value="1" /><input type="hidden" name="currency_code" value="USD" /><input type="hidden" name="return" value="http://3lenterprise.com.au/make-an-appointment/" /><input type="hidden" name="cancel_return" value="http://3lenterprise.com.au" /><input type="hidden" name="notify_url" value="http://3lenterprise.com.au/wp-admin/admin-ajax.php?action=app_paypal_ipn" /><input type="hidden" name="src" value="0" /><input class="app_custom" type="hidden" name="custom" value="" /><input class="app_amount" type="hidden" name="amount" value="" /><input class="app_submit_btn app_not_loggedin" type="submit" name="submit_btn" value="Please confirm PRICE USD payment for SERVICE" /><img style="display:none" alt="" border="0" width="1" height="1" src="https://www.paypal.com/en_US/i/scr/pixel.gif" /></form></div></td>
+</tr>
+</tbody>
+</table>
+			</div><!-- .entry-content -->
+	<footer class="entry-footer-insinglepost">
+			</footer><!-- .entry-footer -->
+</article><!-- #post-## -->
+
+				
+			
+		</main><!-- #main -->
+	</div><!-- #primary -->
+
+</div><!-- .col-xs-12 col-sm-12 col-md-12 -->
+</div><!-- .row -->
+</div><!-- .container -->
+	</div><!-- #content -->
+	
+<div class="container-fluid">
+<div class="row">
+	<span class="scrollup-icon"><a href="index.html?wcalendar=1614556800#" class="scrollup"></a></span>
+	<footer id="colophon" class="site-footer" role="contentinfo">
+		<div class="container">
+		<div class="row">
+		<div class="footer-widget-area">
+			<div class="col-md-4">
+				<div class="left-footer">
+						<div id="secondary" class="widget-area" role="complementary">
+		
+
+			</div><!-- #secondary -->
+				</div>
+			</div>
+			
+			<div class="col-md-4">
+				<div class="mid-footer">
+						<div id="secondary" class="widget-area" role="complementary">
+		
+
+			</div><!-- #secondary -->
+					
+				</div>
+			</div>
+
+			<div class="col-md-4">
+				<div class="right-footer">
+						<div id="secondary" class="widget-area" role="complementary">
+		
+
+			</div><!-- #secondary -->
+					
+				</div>
+			</div>						
+		</div><!-- .footer-widget-area -->
+	</div><!-- .row -->
+</div><!-- .container -->		
+	<div class="footer-site-info">
+		<div class="container">
+		<div class="row">
+			<div class="footer-details-container">
+				<div class="copyright-container">
+					Copyright © 3L Enterprise 2014	
+
+				</div><!-- .copyright-container -->
+				<div class="credit-container">
+				</div><!-- footer-menu-container -->
+			</div><!-- .footer-details-container -->
+			</div><!-- .row -->
+			</div><!-- .container -->
+		</div><!-- .site-info -->
+	</footer><!-- #colophon -->
+</div><!-- .row -->
+</div><!-- .container-fluid -->
+</div><!-- #page -->
+
+<script type="text/javascript">jQuery(document).ready(function($) {$('.app_select_services').change(function(){var selected_service=$('.app_select_services option:selected').val();if (typeof selected_service=='undefined' || selected_service===null){selected_service=1;}$('.app_service_excerpt').hide();$('#app_service_excerpt_'+selected_service).show();});$('.app_services_button').click(function(){var selected_service=$('.app_select_services option:selected').val();window.location.href='/make-an-appointment/?wcalendar=1614556800&app_service_id='+selected_service;});$(".app_monthly_schedule_wrapper table td.free").click(function(){var selected_timetable=$(".app_timetable_"+$(this).find(".appointments_select_time").val());$(".app_timetable:not(selected_timetable)").hide();selected_timetable.show("slow");});$("table.appointments-legend-table td.free").click(false);$('.appointments-login_show_login').click(function(){var app_redirect=confirm("Login required to make an appointment. Now you will be redirected to login page."); if(app_redirect){window.location.href= "http://3lenterprise.com.au/wp-login.php";}});var wait_img= "<img class='wait_img' src='../wp-content/plugins/appointments/images/waiting.gif' />";$(".appointments-list table td.free, .app_timetable div.free").not(".app_monthly_schedule_wrapper table td.free").click(function(){$(this).css("text-align","center").append(wait_img);var app_value = $(this).find(".appointments_take_appointment").val();$(".appointments-confirmation-final-value").val(app_value);var pre_data = {action: "pre_confirmation", value: app_value, nonce: "d8b174256d"};$.post(_appointments_data.ajax_url, pre_data, function(response) {$(".wait_img").remove();if ( response && response.error )alert(response.error);else{$(".appointments-confirmation-wrapper").show();$(".appointments-confirmation-service").html(response.service);if (response.worker){$(".appointments-confirmation-worker").html(response.worker).show();}$(".appointments-confirmation-start").html(response.start);$(".appointments-confirmation-end").html(response.end);$(".appointments-confirmation-price").html(response.price);if (response.price != "0"){$(".appointments-confirmation-price").show();}if (response.name =="ask"){$(".appointments-name-field").show();}if (response.email =="ask"){$(".appointments-email-field").show();}if (response.phone =="ask"){$(".appointments-phone-field").show();}if (response.address =="ask"){$(".appointments-address-field").show();}if (response.city =="ask"){$(".appointments-city-field").show();}if (response.note =="ask"){$(".appointments-note-field").show();}if (response.gcal =="ask"){$(".appointments-gcal-field").show();}if (response.additional =="ask"){$(".appointments-additional-field").show();}$(".appointments-confirmation-button").focus();}},"json");});$(".appointments-confirmation-cancel-button").click(function(){window.location.href=app_location();});$(".appointments-confirmation-button").click(function(){var final_value = $(".appointments-confirmation-final-value").val();var app_name = $(".appointments-name-field-entry").val();var app_email = $(".appointments-email-field-entry").val();var app_phone = $(".appointments-phone-field-entry").val();var app_address = $(".appointments-address-field-entry").val();var app_city = $(".appointments-city-field-entry").val();var app_note = $(".appointments-note-field-entry").val();var app_gcal = "";var app_warning_text = "Please fill in the requested field";if ($(".appointments-gcal-field-entry").is(":checked")){app_gcal=1;}var post_data = {action: "post_confirmation", value: final_value, app_name: app_name, app_email: app_email, app_phone: app_phone, app_address: app_address, app_city: app_city, app_note: app_note, app_gcal: app_gcal, nonce: "d8b174256d"};if($(".appointments-name-field-entry").val()=="" ) {alert(app_warning_text);$(".appointments-name-field-entry").focus();return false;}if($(".appointments-email-field-entry").val()=="" ) {alert(app_warning_text);$(".appointments-email-field-entry").focus();return false;}if($(".appointments-phone-field-entry").val()=="" ) {alert(app_warning_text);$(".appointments-phone-field-entry").focus();return false;}if($(".appointments-address-field-entry").val()=="" ) {alert(app_warning_text);$(".appointments-address-field-entry").focus();return false;}if($(".appointments-city-field-entry").val()=="" ) {alert(app_warning_text);$(".appointments-city-field-entry").focus();return false;}$(".appointments-confirmation-cancel-button").after(wait_img);$.post(_appointments_data.ajax_url, post_data, function(response) {$(".wait_img").remove();if ( response && response.error ) {alert(response.error);}else if ( response && ( response.refresh=="1" || response.price==0 ) ) {alert("We have received your appointment. Thanks!");if ( response.gcal_url != "" ) {if ( response.gcal_same_window ) {window.open(response.gcal_url,"_self");}else {window.open(response.gcal_url,"_blank");window.location.href=app_location();}}else {window.location.href=app_location();}}else if ( response ) {$(".appointments-paypal").find(".app_amount").val(response.price);$(".appointments-paypal").find(".app_custom").val(response.app_id);var old_val = $(".appointments-paypal").find(".app_submit_btn").val();if ( old_val ) {var new_val = old_val.replace("PRICE",response.price).replace("SERVICE",response.service_name);$(".appointments-paypal").find(".app_submit_btn").val(new_val);var old_val2 = $(".appointments-paypal").find(".app_item_name").val();var new_val2 = old_val2.replace("SERVICE",response.service_name);$(".appointments-paypal").find(".app_item_name").val(new_val2);$(".appointments-paypal .app_submit_btn").focus();}if ( response.gcal_url != "" ) {window.open(response.gcal_url,"_blank");}if ( response.mp == 1 ) {$(".mp_buy_form").find("[name='variation']").remove().end().append("<input type='hidden' name='variation' />");$(".mp_buy_form input[name='variation']").val(response.variation);$(".mp_buy_form").show();}else {$(".appointments-paypal").show();}}else{alert("A connection problem occurred. Please try again.");}$(document).trigger("app-confirmation-response_received", [response]);},"json");});});</script><script type='text/javascript' src='../wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpcf7 = {"loaderUrl":"http:\/\/3lenterprise.com.au\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","sending":"Sending ..."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='../wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=3.9.3'></script>
+<script type='text/javascript' src='../wp-content/themes/thbusiness/js/navigation.js?ver=20120206'></script>
+<script type='text/javascript' src='../wp-content/themes/thbusiness/js/bootstrap.min.js?ver=3.9.1'></script>
+<script type='text/javascript' src='../wp-content/themes/thbusiness/js/skip-link-focus-fix.js?ver=20130115'></script>
+<script type='text/javascript' src='../wp-content/themes/thbusiness/js/jquery.flexslider-min.js?ver=3.9.1'></script>
+<script type='text/javascript' src='../wp-content/themes/thbusiness/js/thbusiness.flexslider.js?ver=3.9.1'></script>
+
+</body>
+</html>
