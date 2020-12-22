@@ -1261,7 +1261,7 @@ a:active {
 }
 .comment-list > li:after,
 .comment-list .children > li:before {
-  background: url(http://3lenterprise.com.au/wp-content/themes/thbusiness/images/dotted-line.png)
+  background: url(https://www.3l.com.au/wp-content/themes/thbusiness/images/dotted-line.png)
     repeat left top;
   background-size: 4px 4px;
   content: "";
